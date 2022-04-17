@@ -1,6 +1,8 @@
 # Teach_Easy
 <img src="images/Teach-Easy.png" />
+
 ---
+
 ## Links :
 
 [Virtual Painter](https://github.com/Paritosh-J/virtual-painter.git)
