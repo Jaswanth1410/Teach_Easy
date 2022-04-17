@@ -1,2 +1,8 @@
 # Teach_Easy
-<img src="/assets/img/MarineGEO_logo.png" />
+<img src="images/Teach_Easy.png" />
+## Links :
+[Virtual Painter](https://github.com/Paritosh-J/virtual-painter.git)
+
+[Virtual Mouse](https://github.com/rishabh1402/Virtual_Mouse)
+
+[Web app](https://github.com/Jaswanth1410/Teach_Easy)
